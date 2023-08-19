@@ -7,3 +7,7 @@
 #Completely Responsive Website for All Devices
 
 Navbar Links are not working for now 
+
+#Deployed (here is the Link)
+
+https://da-analytica.netlify.app/
