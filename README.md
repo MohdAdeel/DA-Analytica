@@ -1,6 +1,6 @@
 # Data Finance 💹
 
-Data Finance is a modern **React 18** web application built using **Create React App**, styled with **Tailwind CSS**, and enhanced with smooth typing animations using **react-type-animation** (React 18 compatible).
+Data Finance is a modern **React 18** web application built using **Create React App**, styled with **Tailwind CSS**, and enhanced with smooth typing animations using **react-type-animation** (React 18 compatible). Deployed here https://da-analytica.netlify.app/
 
 This project is lightweight, responsive, and ideal for finance-themed landing pages or dashboards.
 
@@ -187,6 +187,14 @@ import { TypeAnimation } from 'react-type-animation';
 ---
 
 ## 📜 License
-This project is open-source and free to use for learning and development purposes.
 
 This project is open-source and free to use for learning and development purposes.
+
+## 📸 Screenshots
+
+<img width="1897" height="934" alt="Screenshot 2025-12-24 at 3 41 06 PM" src="https://github.com/user-attachments/assets/70fa05e2-90c8-4d45-9214-a7152d2ecc0f" />
+<img width="1897" height="578" alt="Screenshot 2025-12-24 at 3 41 18 PM" src="https://github.com/user-attachments/assets/d2111b81-939f-47a5-bf8e-8c15e0ad75c3" />
+<img width="1897" height="305" alt="Screenshot 2025-12-24 at 3 41 29 PM" src="https://github.com/user-attachments/assets/f8981fe9-760f-47a1-abfa-d98ee438b1f5" />
+<img width="1897" height="794" alt="Screenshot 2025-12-24 at 3 41 39 PM" src="https://github.com/user-attachments/assets/d909a80e-42da-4f18-828a-2ceb5493cfc1" />
+<img width="1897" height="357" alt="Screenshot 2025-12-24 at 3 41 46 PM" src="https://github.com/user-attachments/assets/52844f63-5fc0-4ed3-aa74-9ca5663764e3" />
+
